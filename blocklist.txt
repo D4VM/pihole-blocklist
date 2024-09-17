@@ -1,8 +1,8 @@
 # Blocklist for Office
 
-youtube.com
-m.youtube.com
-googlevideos.com
-ytimg.com
-i.ytimg.com
-youtubei.googleapis.com
+||youtube.com^
+||m.youtube.com^
+||googlevideos.com^
+||ytimg.com^
+||i.ytimg.com^
+||youtubei.googleapis.com^
