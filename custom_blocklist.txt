@@ -1,5 +1,6 @@
 # Custom Blocklist
 
+## Youtube
 ||youtube.com^
 ||googlevideos.com^
 ||googlevideo.com^
