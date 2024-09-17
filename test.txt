@@ -1,0 +1,4 @@
+# test
+
+*.youtube.com
+youtube.com
