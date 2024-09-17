@@ -1,10 +1,7 @@
 # Custom Blocklist
-||youtube.com^
-||m.youtube.com^
-||googlevideos.com^
-||.googlevideos.com^
-||ytimg.com^
-||i.ytimg.com^
-||youtubei.googleapis.com^
-||youtube-ui.l.google.com^
+||youtube^
+||googlevideos^
+||ytimg^
+||youtubei.googleapis^
+||youtube-ui.l.google^
 
