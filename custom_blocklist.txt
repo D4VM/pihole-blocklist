@@ -11,6 +11,8 @@
 
 # Tiktok
 ||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
 
 # Instagram
 ||instagram.com^
