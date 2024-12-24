@@ -14,11 +14,13 @@
 
 # Instagram
 ||instagram.com^
+||cdninstagram.com^
 
 # Facebook
 ||facebook.com^
 ||fbsbx.com^
 ||fbcdn.net^
+||fbpigeon.com^
 
 # Spotify
 ||spotify.com^
