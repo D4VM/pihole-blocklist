@@ -8,3 +8,11 @@
 ||youtubei.googleapis.com^
 ||youtube-ui.l.google.com^
 # ---
+
+# --- Tiktok
+||tiktok.com^
+# ---
+
+# --- Instagram
+||instagram.com^
+# ---
