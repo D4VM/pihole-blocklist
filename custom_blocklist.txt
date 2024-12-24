@@ -1,28 +1,37 @@
-# Custom Blocklist
+# Custom Blocklist - For Work/Office
 
-# --- Youtube
+# --- Entertainment ---
+# Youtube
 ||youtube.com^
 ||googlevideos.com^
 ||googlevideo.com^
 ||ytimg.com^
 ||youtubei.googleapis.com^
 ||youtube-ui.l.google.com^
-# ---
 
-# --- Tiktok
+# Tiktok
 ||tiktok.com^
-# ---
 
-# --- Instagram
+# Instagram
 ||instagram.com^
-# ---
 
-# --- Facebook
+# Facebook
 ||facebook.com^
 ||fbsbx.com^
 ||fbcdn.net^
-# ---
 
-# --- Spotify
+# Spotify
 ||spotify.com^
-# ---
+# --- End of Entertainment ---
+
+# --- Shopping ---
+# trendyol
+||trendyol.com^
+
+# Jomashop
+||jomashop.com^
+# --- End of Shopping ---
+
+# --- Other ---
+# 
+# --- End of Other ---
