@@ -16,3 +16,8 @@
 # --- Instagram
 ||instagram.com^
 # ---
+
+# --- Facebook
+||facebook.com^
+||fbsbx.com
+# ---
