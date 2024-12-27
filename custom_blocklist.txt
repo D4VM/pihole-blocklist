@@ -1,6 +1,6 @@
 # Custom Blocklist - For Work/Office
 
-# --- Entertainment ---
+# ------ Entertainment ------
 # Youtube
 ||youtube.com^
 ||googlevideos.com^
@@ -26,16 +26,25 @@
 
 # Spotify
 ||spotify.com^
-# --- End of Entertainment ---
+# ------ End of Entertainment ------
 
-# --- Shopping ---
+# ------ Shopping ------
+# Temu
+||temu.com^
+
+# Aliexpress
+||aliexpress^
+
+# Amazon
+||amazon.com^
+
 # trendyol
 ||trendyol.com^
 
 # Jomashop
 ||jomashop.com^
-# --- End of Shopping ---
+# ------ End of Shopping ------
 
-# --- Other ---
+# ------ Other ------
 # 
-# --- End of Other ---
+# ------ End of Other ------
